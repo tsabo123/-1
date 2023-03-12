@@ -1,27 +1,24 @@
 body{
    display: flex;
  justify-content: center;
- background-color: #55617D;
+ background:linear-gradient(297.24deg, #E8EFFC 8.25%, #FFFFFF 91.76%);
 }
 .container1{
-    
+    margin-left: 279px;
    position: relative;
     width: 298px;
     height: 502px;
     margin-left: 280px;
     margin-top: 107px;
-    margin-bottom: 171px;
-    float: left;
+    left: 20px;
+    
     background: #E3004F;
-    left: 23.93%;
-right: 50.6%;
-top: 13.72%;
-bottom: 21.92%;
+
 }
 .title {
     
     
-height: 40px;
+
 padding-top: 48px;
 text-align: center;
 top: calc(50% - 40px/2 - 215px);
@@ -30,7 +27,7 @@ font-family: 'Montserrat';
 font-style: normal;
 font-weight: 500;
 font-size: 33px;
-line-height: 40px;
+
 letter-spacing: 1.43478px;
 
 color: #FFFFFF;
@@ -40,7 +37,7 @@ color: #FFFFFF;
 
 .small {
     
-height: 17px;
+
 
 top: calc(50% - 17px/2 - 173.5px);
 
@@ -56,9 +53,9 @@ color: #FFFFFF;
 .container2{
     
     Width: 340px;
-    Height: 572px;
+    Height: 535px;
     margin-top: 90px;
-    margin-left: 270px;
+    padding: 20px;
    position:unset;
     background: #DADADA;
     background-image: url(Rectangle_1.png);
@@ -134,10 +131,10 @@ mix-blend-mode: normal;
     position: relative;
     margin-top: 150px;
     width: 280px;
-    height: 400px;
+    height: 380px;
     margin-left: 71px;
     margin-top: 150px;
-    background-color: #FFFFFF;
+    background-color:#FFFFFF;
 }
 .price1{
     position: absolute;
