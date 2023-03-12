@@ -4,7 +4,7 @@ body{
  background:linear-gradient(297.24deg, #E8EFFC 8.25%, #FFFFFF 91.76%);
 }
 .container1{
-    margin-left: 279px;
+    
    position: relative;
     width: 298px;
     height: 502px;
@@ -60,6 +60,8 @@ color: #FFFFFF;
     background: #DADADA;
     background-image: url(Rectangle_1.png);
     display: flex;
+    background-position: bottom;
+    background-size: cover;
 }
 .image1{
 width: 145px;
